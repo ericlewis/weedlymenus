@@ -1,5 +1,5 @@
 #!/bin/sh
-curl -o menus/32292.json https://api.legalmarijuanadispensary.com/dispensaries/32292/menu_items.json && \
+curl -o menus/28795.json https://api.legalmarijuanadispensary.com/dispensaries/28795/menu_items.json && \
 git add --all . && \
-git commit -am"Updated BAM Delivery SF's Menu" && \
+git commit -am"Updated Bay Meds Delivery Menu" && \
 git push origin master
